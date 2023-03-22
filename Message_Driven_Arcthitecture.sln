@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message_Driven_Arcthitecture", "Message_Driven_Arcthitecture\Message_Driven_Arcthitecture.csproj", "{A6FB211B-1F1B-444A-95B3-42CBB7F04CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6FB211B-1F1B-444A-95B3-42CBB7F04CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FB211B-1F1B-444A-95B3-42CBB7F04CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FB211B-1F1B-444A-95B3-42CBB7F04CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FB211B-1F1B-444A-95B3-42CBB7F04CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F44D1DC-514F-4AF3-B189-88AC84BC5034}
+	EndGlobalSection
+EndGlobal
